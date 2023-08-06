@@ -1,0 +1,27 @@
+/* Apply necessary styles to the parent container for fade-up effect */
+.fade-up {
+    opacity: 0;
+  }
+  
+  /* CSS animation for the fading effect */
+  @keyframes fadeInAnimation {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  /* Apply the animation to each word with different delays */
+  .fade-up:nth-child(1) {
+    animation: fadeInAnimation 1s 0.5s forwards;
+  }
+  
+  .fade-up:nth-child(2) {
+    animation: fadeInAnimation 1s 1.5s forwards;
+  }
+  
+  .fade-up:nth-child(3) {
+    animation: fadeInAnimation 1s 2.5s forwards;
+  }
