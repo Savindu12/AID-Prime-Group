@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+<h1 align="center"><img src="https://github.com/Savindu12/AID-Prime-Group/blob/main/src/assets/Logo/Horizontal.png" width="400px"></h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+### <p align = "center" font-family = "Monaco">AID Prime Group is considered as top level industrial cleaning company in Australia which provides cleaning services to its clients and stakeholders and ensure the high level of cleaning hygine. 
+  
+![Fonal](https://github.com/Savindu12/AID-Prime-Group/blob/main/src/assets/github/Screenshot%202023-08-06%20220137.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  ### <h2>TOOLS AND TECHNOLOGIES
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+ <p align="left">  
+ <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp;
+ <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp;
+ <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" alt="javascript" height="40"/>&nbsp;&nbsp;
+ <img src="https://github.com/Savindu12/Pheonix_FMS/blob/main/src/assets/react%20logo.png" alt="react" width="52" /><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="css3" height="60"/>
+ </p><br>
+ <p align="left">  
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;
+  
+ </p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## PROJECT REQUIREMENTS 
+### <u>Services Definition</u>
+* Company Identification and description
+* Services description with images
+* Contact form to connect with Company
+* FAQ section to answer any questions
+* Home section to provide necessary company details
 
-### `npm run eject`
+## FAQ PAGE
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Entity diagram](https://github.com/Savindu12/AID-Prime-Group/blob/main/src/assets/github/Screenshot%202023-08-06%20220248.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## SERVICES DEFINTIION
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Screenshot 2022-05-20 194350](https://github.com/Savindu12/AID-Prime-Group/blob/main/src/assets/github/Screenshot%202023-08-06%20220533.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## FOOTER DESIGN
 
-## Learn More
+![Screenshot 2022-05-20 194350](https://github.com/Savindu12/AID-Prime-Group/blob/main/src/assets/github/Screenshot%202023-08-06%20220331.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## SERVICES FLOW
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Screenshot 2022-05-20 194350](https://github.com/Savindu12/AID-Prime-Group/blob/main/src/assets/github/Screenshot%202023-08-06%20220345.png)
 
-### Code Splitting
+## CONTACT FORM
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Screenshot 2022-05-20 194350](https://github.com/Savindu12/AID-Prime-Group/blob/main/src/assets/github/Screenshot%202023-08-06%20220429.png)
 
-### Analyzing the Bundle Size
+## SERVICES SECTION
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Screenshot 2022-05-20 194350](https://github.com/Savindu12/AID-Prime-Group/blob/main/src/assets/github/Screenshot%202023-08-06%20220452.png)
 
-### Making a Progressive Web App
+## FAQ SECTION
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Phoenix FMS Flow chart](https://github.com/Savindu12/AID-Prime-Group/blob/main/src/assets/github/Screenshot%202023-08-06%20220357.png)
 
-### Advanced Configuration
+## CONTACT PAGE
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![Phoenix FMS Flow chart](https://github.com/Savindu12/AID-Prime-Group/blob/main/src/assets/github/Screenshot%202023-08-06%20220413.png)
 
-### Deployment
+## ABOUT US
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![Phoenix FMS Flow chart](https://github.com/Savindu12/AID-Prime-Group/blob/main/src/assets/github/Screenshot%202023-08-06%20220318.png)
 
-### `npm run build` fails to minify
+## SUB-SERVICE DEFINITION
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Phoenix FMS Flow chart](https://github.com/Savindu12/AID-Prime-Group/blob/main/src/assets/github/Screenshot%202023-08-06%20220519.png)
+
